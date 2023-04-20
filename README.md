@@ -3,7 +3,6 @@
 This project involves creating a Python script to visualize the weather of over 500 cities of varying distances from the equator. The data is obtained using the OpenWeatherMap API and the citipy Python library. In the first part of the assignment, we create scatter plots to showcase the relationship between weather variables and latitude, and compute linear regression for each relationship. In the second part, we plan future vacations by creating a map visualization using geoViews Python library and Geoapify API.
 
 ## Part 1: WeatherPy
-To get started, use the WeatherPy.ipynb Jupyter notebook provided in the starter code ZIP file. The starter code will guide you through the process of using your Python coding skills to develop a solution to address the required functionalities.
 
 ### Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 In this part, we use the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, we create a series of scatter plots to showcase the following relationships:
